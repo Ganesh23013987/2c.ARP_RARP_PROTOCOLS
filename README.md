@@ -44,10 +44,11 @@ while True:
 ```
 ## OUPUT - ARP
 ### CLIENT:
-<img width="563" alt="image" src="https://github.com/Ganesh23013987/2c.ARP_RARP_PROTOCOLS/assets/147473768/18cc8a53-5d42-4747-939e-95f3e8409ac7">
+<img width="673" alt="arp client" src="https://github.com/Ganesh23013987/2c.ARP_RARP_PROTOCOLS/assets/147473768/ae818d34-c426-4262-befc-fbac03428620">
 
 ### SERVER:
-<img width="559" alt="image" src="https://github.com/Ganesh23013987/2c.ARP_RARP_PROTOCOLS/assets/147473768/0e41a4e9-5af8-4162-9451-ab7b88d1cabe">
+<img width="675" alt="arp server" src="https://github.com/Ganesh23013987/2c.ARP_RARP_PROTOCOLS/assets/147473768/2d4f312a-de7f-4d0e-a089-42dfdf9f0622">
+
 
 ## ALGORITHM [RARP]:
 ### Client:
@@ -89,10 +90,11 @@ while True:
 ```
 ## OUPUT -RARP:
 ### CLIENT:
-<img width="562" alt="image" src="https://github.com/Ganesh23013987/2c.ARP_RARP_PROTOCOLS/assets/147473768/d84ecae9-3b49-43d1-aedd-99ec69b3aae6">
+<img width="674" alt="rarp client" src="https://github.com/Ganesh23013987/2c.ARP_RARP_PROTOCOLS/assets/147473768/e93bdc41-f091-496b-b370-5fef8c8d9843">
 
 ### SERVER:
-<img width="559" alt="image" src="https://github.com/Ganesh23013987/2c.ARP_RARP_PROTOCOLS/assets/147473768/ae56103e-efd9-4ed4-a3ac-a3c521bd97b8">
+<img width="677" alt="rarp server" src="https://github.com/Ganesh23013987/2c.ARP_RARP_PROTOCOLS/assets/147473768/533d66bb-1732-4053-b375-2919e3373be7">
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
